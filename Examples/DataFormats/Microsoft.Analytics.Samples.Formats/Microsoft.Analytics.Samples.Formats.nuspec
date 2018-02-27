@@ -18,6 +18,8 @@
     <tags>Microsoft.Analytics.Samples.Formats ADL USQL</tags>
   </metadata>
   <files>
-      <file src="Microsoft.Analytics.Samples.Formats.dll" target="lib/net461" />
+    <file src="Lib\Avro.dll" target="lib/net461" />
+    <file src="Lib\log4net.dll" target="lib/net461" />
+    <file src="Lib\Newtonsoft.Json.dll" target="lib/net461" />
   </files>
 </package>
