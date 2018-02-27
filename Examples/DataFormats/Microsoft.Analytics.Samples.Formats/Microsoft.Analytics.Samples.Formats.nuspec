@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Microsoft.Analytics.Samples.Formats</id>
+    <version>$version$</version>
+    <title>Microsoft Analytics Format Samples</title>
+    <authors>Eric Smith (ericsm)</authors>
+    <owners>Windows and Devices Group/Enginering System/SCALES</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Microsoft Analytics Format Samples for Azure Data Lakes U-SQL</description>
+    <releaseNotes>
+      Version 1.0.1:
+        - Create NuGet Package (from Build Definition https://microsoft.visualstudio.com/EngSys/_build/index?buildId=8254264)
+      Version 1.0.0:
+        - Original GitHub source: https://github.com/Azure/usql/tree/master/Examples/DataFormats/Microsoft.Analytics.Samples.Formats
+    </releaseNotes>
+    <copyright>Copyright 2018 Microsoft</copyright>
+    <tags>Microsoft.Analytics.Samples.Formats ADL USQL</tags>
+  </metadata>
+  <files>
+      <file src="bin\Release\Microsoft.Analytics.Samples.Formats.dll" target="lib/net461" />
+  </files>
+</package>

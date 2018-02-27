@@ -84,6 +84,7 @@
     <Compile Include="Xml\XPath.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Microsoft.Analytics.Samples.Formats.nuspec" />
     <None Include="packages.config" />
     <None Include="readme.md" />
   </ItemGroup>
