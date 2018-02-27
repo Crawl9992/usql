@@ -18,6 +18,6 @@
     <tags>Microsoft.Analytics.Samples.Formats ADL USQL</tags>
   </metadata>
   <files>
-      <file src="bin\Release\Microsoft.Analytics.Samples.Formats.dll" target="lib/net461" />
+      <file src="Microsoft.Analytics.Samples.Formats.dll" target="lib/net461" />
   </files>
 </package>
