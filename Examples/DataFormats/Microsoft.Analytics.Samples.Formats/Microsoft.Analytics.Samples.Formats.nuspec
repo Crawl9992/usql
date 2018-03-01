@@ -5,7 +5,7 @@
     <version>$version$</version>
     <title>Microsoft Analytics Format Samples</title>
     <authors>Eric Smith</authors>
-    <owners>Windows and Devices Group/Enginering System</owners>
+    <owners>Windows and Devices Group/Engineering System</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Microsoft Analytics Format Samples for Azure Data Lakes U-SQL</description>
     <releaseNotes>
